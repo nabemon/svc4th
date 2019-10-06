@@ -105,7 +105,7 @@
 .content section {
 	font-size: 1.25em;
 	/*padding: 3em 1em;*/
-	display: none;
+	/*display: none;*/
 	max-width: 1170px;
 	margin: 0 auto;
 }
